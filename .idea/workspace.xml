@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61edf14d-56f2-49ca-a449-15fc10a90fa1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1" />
+  <component name="ProjectId" id="1Z7uGraPwZEue4syAn2s4IQJoTm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\jonas\Documents\PHP\FlightWiki\public" />
+      <recent name="D:\jonas\Documents\PHP\FlightWiki\pages" />
+      <recent name="D:\jonas\Documents\PHP\FlightWiki" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Start Server" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8433">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61edf14d-56f2-49ca-a449-15fc10a90fa1" name="Default Changelist" comment="" />
+      <created>1584202360677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584202360677</updated>
+      <workItem from="1584202362299" duration="31745000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="679" y="75" width="588" height="890" key="#PHP" timestamp="1584202449967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="75" width="588" height="890" key="#PHP/-1920.404.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584202449967" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584202458938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.404.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584202458938" />
+    <state x="474" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584205372345">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="474" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.404.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584205372345" />
+    <state width="1876" height="261" key="GridCell.Tab.0.bottom" timestamp="1584289742542">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="261" key="GridCell.Tab.0.bottom/-1920.404.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584289742542" />
+    <state width="1876" height="261" key="GridCell.Tab.0.center" timestamp="1584289742542">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="261" key="GridCell.Tab.0.center/-1920.404.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584289742542" />
+    <state width="1876" height="261" key="GridCell.Tab.0.left" timestamp="1584289742542">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="261" key="GridCell.Tab.0.left/-1920.404.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584289742542" />
+    <state width="1876" height="261" key="GridCell.Tab.0.right" timestamp="1584289742542">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="261" key="GridCell.Tab.0.right/-1920.404.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584289742542" />
+    <state x="761" y="318" key="NewPhpClassDialog" timestamp="1584207145834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="318" key="NewPhpClassDialog/-1920.404.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584207145834" />
+    <state x="794" y="439" key="NewPhpFileDialog" timestamp="1584212160363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="439" key="NewPhpFileDialog/-1920.404.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584212160363" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1584214923577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/-1920.404.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584214923577" />
+    <state width="448" height="91" key="javadoc.popup.new" timestamp="1584285023206">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="448" height="91" key="javadoc.popup.new/-1920.404.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584285023206" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1584211675164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/-1920.404.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584211675164" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1584210057659">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.404.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584210057659" />
+  </component>
+</project>
