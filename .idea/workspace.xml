@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61edf14d-56f2-49ca-a449-15fc10a90fa1" name="Default Changelist" comment="" />
+    <list default="true" id="61edf14d-56f2-49ca-a449-15fc10a90fa1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,8 +21,12 @@
     <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1" />
   <component name="ProjectId" id="1Z7uGraPwZEue4syAn2s4IQJoTm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -61,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584202360677</updated>
-      <workItem from="1584202362299" duration="31745000" />
+      <workItem from="1584202362299" duration="31965000" />
     </task>
     <servers />
   </component>
@@ -109,10 +116,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/-1920.404.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584214923577" />
-    <state width="448" height="91" key="javadoc.popup.new" timestamp="1584285023206">
+    <state width="448" height="91" key="javadoc.popup.new" timestamp="1584289880538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="448" height="91" key="javadoc.popup.new/-1920.404.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584285023206" />
+    <state width="448" height="91" key="javadoc.popup.new/-1920.404.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584289880538" />
     <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1584211675164">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
