@@ -48,7 +48,7 @@ blockquote {
   background-color: hsl(0, 0%, 96%);
   border-left: 5px solid hsl(0, 0%, 86%);
   margin: 0;
-  padding: 1em 1.5em;
+  padding: 1px 1.5em;
 }
 
 #container {

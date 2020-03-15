@@ -8,6 +8,10 @@ All files are using the [Markdown](http://en.wikipedia.org/wiki/Markdown) syntax
 
 > _WARNING! This project is only an illustration of a development on the [Flight](https://flightphp.com) PHP micro-framework and is not intended to be used in a production environment! I'm not reliable for any damage that could be caused._
 
+## Screenshot
+
+![Screenshot](https://raw.githubusercontent.com/Skayo/FlightWiki/master/public/img/Screenshot.png)
+
 ## Requirements
 
 Flight requires PHP 5.3 or greater, and so does FlightWiki.
