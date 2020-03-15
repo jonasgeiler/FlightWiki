@@ -140,7 +140,7 @@ blockquote {
   resize: vertical;
 }
 
-#submitButton {
+.button {
   color: #000;
   background-color: rgb(240, 240, 240);
   float: right;
@@ -149,4 +149,8 @@ blockquote {
   border-radius: 5px;
   line-height: 1.5em;
   cursor: pointer;
+}
+
+.button.cancel {
+  float: left;
 }

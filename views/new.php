@@ -7,5 +7,8 @@
 
 	<textarea name="pageContent" id="pageContentField" rows="20" placeholder="Enter Page Content..."></textarea>
 
-	<p><input type="submit" value="Create &rarr;" id="submitButton"></p>
+	<p>
+		<button class="button cancel" onclick="event.preventDefault();window.location.href = '/'">Cancel</button>
+		<input type="submit" value="Create &rarr;" class="button">
+	</p>
 </form>

@@ -8,5 +8,8 @@
 
 	<textarea name="pageContent" id="pageContentField" rows="20" placeholder="Enter Page Content..."><?= $pageContent; ?></textarea>
 
-	<p><input type="submit" value="Update &rarr;" id="submitButton"></p>
+	<p>
+		<button class="button cancel" onclick="event.preventDefault();window.location.href = '/<?=$pageName?>'">Cancel</button>
+		<input type="submit" value="Update &rarr;" class="button">
+	</p>
 </form>
